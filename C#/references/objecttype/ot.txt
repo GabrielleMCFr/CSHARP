@@ -1,0 +1,3 @@
+Every type, eventually, inherits from Object
+Object members include Equals(), ToString(), and GetType()
+The ToString() method allows Console.WriteLine() to work for all types
